@@ -3,13 +3,7 @@ Objective:
 As a Data Analyst at Amazon, you have been tasked with gauging customer sentiment towards the iPhone 15 128GB model. The primary goal of this project is to analyze public perception and evaluate customer reactions by performing sentiment analysis on product reviews posted by users. By extracting and processing customer reviews, you will derive insights about the overall sentiment (positive or negative) surrounding the product, which can be useful for decision-making, improving customer experience, and identifying key areas for product improvement.
 
 Tasks:
- 
 
- 
-
- 
-
- 
 
 1. Data Collection (Web Scraping):
 
@@ -95,4 +89,5 @@ Selenium: For automating the web scraping process.
 BeautifulSoup: For parsing HTML and extracting review details.
 Pandas: For data cleaning, processing, and analysis.
 TextBlob: For performing sentiment analysis on the review text.
+
 Matplotlib/Seaborn: For visualizations like sentiment distribution and word clouds.
